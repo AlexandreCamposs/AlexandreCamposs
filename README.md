@@ -9,7 +9,6 @@
 
 - Todos os meus projetos estão disponíveis em [https://github.com/AlexandreCamposs](https://github.com/AlexandreCamposs)
 
-- Pergunte-me sobre **html, css**
 
 - Como me contatar **https://www.linkedin.com/in/alexandre-moura-de-campos-496627114/**
 
