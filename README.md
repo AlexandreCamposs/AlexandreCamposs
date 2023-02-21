@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrecamposs&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrecamposs" /> </p>
 
-- 🌱 Atualmente estou aprendendo **html,css,javascript,React,GitHub**
+- 🌱 Atualmente estou estudando **html,css,javascript,React,GitHub**
 
 - Estou procurando por **estágios**
 
