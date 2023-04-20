@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Alexandre Campos</h1>
-<h3 align="center">Sou formado em análise e desenvolvimento de sistemas, cursando segunda graduação em desenvolvimento web.</h3>
+<h3 align="center">Sou formado em análise e desenvolvimento de sistemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrecamposs&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrecamposs" /> </p>
 
