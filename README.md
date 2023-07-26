@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou estudando **html,css,javascript,React,GitHub**
 
 
-- Todos os meus projetos estão disponíveis em [[https://github.com/AlexandreCamposs](https://github.com/AlexandreCamposs?tab=repositories)]
+- Todos os meus projetos estão disponíveis em [https://github.com/AlexandreCamposs](https://github.com/AlexandreCamposs?tab=repositories)
 
 
 - Como me contatar **https://www.linkedin.com/in/alexandre-moura-de-campos-496627114/**
