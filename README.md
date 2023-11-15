@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrecamposs&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrecamposs" /> </p>
 
-- 🌱 Atualmente estou estudando **html,css,javascript,React,GitHub**
+- 🌱 Atualmente estou estudando **Html, Css, JavaScript, React, GitHub, Scss, Tailwind**
 
 
-- Todos os meus projetos estão disponíveis em https://github.com/AlexandreCamposs?tab=repositories
+- Todos os meus projetos estão disponíveis em [Portfólio](https://alecamposs.vercel.app/)
 
 
-- Como me contatar **https://www.linkedin.com/in/alexandre-moura-de-campos-496627114/**
+- Como me contatar [Linkedin](https://www.linkedin.com/in/alexandre-camposs-496627114/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
