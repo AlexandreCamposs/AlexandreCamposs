@@ -1,13 +1,12 @@
-<h1 align="center">Olá, meu nome é Alexandre Campos</h1>
+div<h1 align="center">Olá, meu nome é Alexandre Campos</h1>
+
 <h3 align="center">Sou formado em análise e desenvolvimento de sistemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrecamposs&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrecamposs" /> </p>
 
 - 🌱 Atualmente estou estudando **Html, Css, JavaScript, React, GitHub, Scss, Tailwind**
 
-
 - Todos os meus projetos estão disponíveis em [Portfólio](https://alecamposs.vercel.app/)
-
 
 - Como me contatar [Linkedin](https://www.linkedin.com/in/alexandre-camposs-496627114/)
 
@@ -17,10 +16,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:inline_block>
- <br>
- 
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<div>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />         
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -32,11 +29,7 @@
           
           
           
-          
-          
-          
-          
-          
+<br>
 
  </div>
 
